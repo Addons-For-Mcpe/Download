@@ -48,7 +48,7 @@ body{
     padding: 10px 10px;
     width: 100px;
     color:rgb(0, 0, 0);
-    background-color: rgb(255, 230, 0);
+    background-color: rgb(230, 22, 123);
     border: 1px solid rgb(0, 0, 0);
     border-radius: 5px;
     text-align: center;
@@ -59,7 +59,7 @@ body{
 
 
 .btn3:hover{
-    background: rgb(255, 106, 0);;
+    background: rgb(124, 3, 62);;
     transition: background 1s;
 }
 
